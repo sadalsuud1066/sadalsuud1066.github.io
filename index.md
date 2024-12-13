@@ -17,3 +17,8 @@ I 'm really excited to blog my journey on GitHob.com
 </li>
 {% endfor %}
 </ul>
+
+<ul>
+<li><a href="https://sarah-wecan.github.io/HelloWorld">Hello World project</a></li>
+<li><a href="https://github.com/thewecanzone/GitHubForDummiesReaders">GitHub for Dummies Repo</a></li>
+</ul>
